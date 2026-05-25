@@ -1,4 +1,4 @@
-<img width="567" height="293" alt="image" src="https://github.com/user-attachments/assets/dd5827e4-35c8-4b6e-a28c-736582c98a6b" /># 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
+19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
 ## 2. Implementation of different categories of operators.
@@ -217,6 +217,7 @@ int main() {
 ```
 # Output:
 
+<img width="836" height="662" alt="image" src="https://github.com/user-attachments/assets/01405746-93e0-43a9-8922-5dd78d9f7717" />
 
 
 
